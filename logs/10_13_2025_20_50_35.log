@@ -1,0 +1,3 @@
+2025-10-13 20:50:36,910 UTC INFO     test_landing_page  Environment: development
+2025-10-13 20:50:36,911 UTC INFO     test_landing_page  Verifying the elements displayed
+2025-10-13 20:50:36,911 UTC INFO     pages.demoqa.selenium.base_page  Finding element:  ('xpath', "//h5[text()='Elements']")

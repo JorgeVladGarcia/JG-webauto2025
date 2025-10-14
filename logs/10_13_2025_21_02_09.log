@@ -1,0 +1,12 @@
+2025-10-13 21:02:11,404 UTC INFO     test_landing_page  Environment: development
+2025-10-13 21:02:16,437 UTC INFO     pages.demoqa.selenium.landing_page  Navigating to the page: http://demoqa.com
+2025-10-13 21:02:16,438 UTC INFO     test_landing_page  Verifying the elements displayed
+2025-10-13 21:02:16,441 UTC INFO     pages.demoqa.selenium.base_page  Finding element:  ('xpath', "//h5[text()='Elements']")
+2025-10-13 21:02:16,526 UTC INFO     test_landing_page  Elements option: Elements
+2025-10-13 21:02:16,531 UTC INFO     pages.demoqa.selenium.base_page  Finding element:  ('xpath', "//h5[text()='Forms']")
+2025-10-13 21:02:16,591 UTC INFO     test_landing_page  Forms option: Forms
+2025-10-13 21:02:16,592 UTC INFO     pages.demoqa.selenium.base_page  Finding element:  ('xpath', "//h5[text()='Alerts, Frame & Windows']")
+2025-10-13 21:02:16,626 UTC INFO     test_landing_page  Alerts, Frame & Windows option: Alerts, Frame & Windows
+2025-10-13 21:02:16,627 UTC INFO     pages.demoqa.selenium.base_page  Finding element:  ('xpath', "//h5[text()='Elements']")
+2025-10-13 21:02:16,653 UTC INFO     pages.demoqa.selenium.base_page  Finding element:  ('xpath', "//h5[text()='Forms']")
+2025-10-13 21:02:16,683 UTC INFO     pages.demoqa.selenium.base_page  Finding element:  ('xpath', "//h5[text()='Alerts, Frame & Windows']")
