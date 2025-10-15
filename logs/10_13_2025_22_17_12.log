@@ -1,4 +1,0 @@
-2025-10-13 22:17:15,028 UTC INFO     test_landing_page  Environment: development
-2025-10-13 22:17:15,840 UTC INFO     pages.demoqa.selenium.landing_page  Navigating to the page: https://casaideas.com.bo
-2025-10-13 22:17:15,841 UTC INFO     test_landing_page  Verifying the elements displayed
-2025-10-13 22:17:17,798 UTC INFO     test_landing_page  Elements option: LA PAZ

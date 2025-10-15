@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 '''
-Base page creates methods for actions over elements in webpage
+Base page is a class creates methods for actions over elements in webpage
 '''
 
 logger = get_logger(__name__)
