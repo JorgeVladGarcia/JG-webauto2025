@@ -1,0 +1,20 @@
+2025-10-28 15:31:07,394 UTC INFO     pages.demoqa.play.base_page_play  Navigating to: https://casaideas.com.bo/
+2025-10-28 15:31:11,530 UTC INFO     pages.demoqa.play.base_page_play  Clicking on ESPACIOS DE LA CASA  element: A
+2025-10-28 15:31:11,685 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Accesorios Personales element: A
+2025-10-28 15:31:13,663 UTC INFO     pages.demoqa.play.base_page_play  Clicking on BUTTON element: BUTTON
+2025-10-28 15:31:13,921 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-28 15:31:15,023 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-28 15:31:15,239 UTC INFO     pages.demoqa.play.base_page_play  Entering text 'vlad.garciaperez@gmail.com' into INPUT element: INPUT
+2025-10-28 15:31:15,274 UTC INFO     pages.demoqa.play.base_page_play  Entering text 'casaideasPWD1!' into INPUT element: INPUT
+2025-10-28 15:31:15,331 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Iniciar sesión element: BUTTON
+2025-10-28 15:31:15,451 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-28 15:31:18,736 UTC INFO     pages.demoqa.play.base_page_play  Navigating to: https://casaideas.com.bo/
+2025-10-28 15:31:23,449 UTC INFO     pages.demoqa.play.base_page_play  Clicking on ESPACIOS DE LA CASA  element: A
+2025-10-28 15:31:23,590 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Accesorios Personales element: A
+2025-10-28 15:31:26,504 UTC INFO     pages.demoqa.play.base_page_play  Clicking on BUTTON element: BUTTON
+2025-10-28 15:31:26,849 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-28 15:31:27,904 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-28 15:31:28,110 UTC INFO     pages.demoqa.play.base_page_play  Entering text 'wrong_user@example.com' into INPUT element: INPUT
+2025-10-28 15:31:28,142 UTC INFO     pages.demoqa.play.base_page_play  Entering text 'WrongPass' into INPUT element: INPUT
+2025-10-28 15:31:28,201 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Iniciar sesión element: BUTTON
+2025-10-28 15:31:28,303 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON

@@ -1,10 +1,10 @@
 [
     {
-        "email": "vlad.garciaperez@gmail.com",
-        "password": "casaideasPWD1!"
-    },
-    {
         "email": "wrong_user@example.com",
         "password": "WrongPass"
-    }    
+    },
+    {
+        "email": "vlad.garciaperez@gmail.com",
+        "password": "casaideasPWD1!"
+    }
 ]

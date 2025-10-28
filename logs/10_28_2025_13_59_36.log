@@ -1,0 +1,2 @@
+2025-10-28 13:59:38,715 UTC INFO     utils.read_json_data  Reading json file: tests/data/{'email': 'vlad.garciaperez@gmail.com', 'password': 'casaideasPWD1!'}.json
+2025-10-28 13:59:39,171 UTC INFO     utils.read_json_data  Reading json file: tests/data/{'email': 'wrong_user@example.com', 'password': 'WrongPass'}.json
