@@ -1,9 +1,0 @@
-2025-10-28 13:41:57,009 UTC INFO     utils.read_json_data  Reading json file: tests/data/usernames.json
-2025-10-28 13:41:57,010 UTC DEBUG    utils.read_json_data  Json file read successfully: [{'email': 'vlad.garciaperez@gmail.com', 'password': 'casaideasPWD1!'}, {'email': 'wrong_user@example.com', 'password': 'WrongPass'}]
-2025-10-28 13:41:57,011 UTC INFO     pages.demoqa.play.base_page_play  Navigating to: https://casaideas.com.bo/
-2025-10-28 13:42:02,942 UTC INFO     pages.demoqa.play.base_page_play  Clicking on ESPACIOS DE LA CASA  element: A
-2025-10-28 13:42:03,082 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Accesorios Personales element: A
-2025-10-28 13:42:05,648 UTC INFO     pages.demoqa.play.base_page_play  Clicking on BUTTON element: BUTTON
-2025-10-28 13:42:05,992 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
-2025-10-28 13:42:07,050 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
-2025-10-28 13:42:07,257 UTC INFO     pages.demoqa.play.base_page_play  Entering text '{'email': 'wrong_user@example.com', 'password': 'WrongPass'}' into INPUT element: INPUT

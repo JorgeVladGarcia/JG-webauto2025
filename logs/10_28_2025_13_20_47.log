@@ -1,2 +1,0 @@
-2025-10-28 13:20:50,082 UTC INFO     utils.read_json_data  Reading json file: tests/data/usernames.json
-2025-10-28 13:20:50,085 UTC DEBUG    utils.read_json_data  Json file read successfully: [{'email': 'vlad.garciaperez@gmail.com', 'password': 'casaideasPWD1!'}, {'email': 'wrong_user@example.com', 'password': 'WrongPass'}]
