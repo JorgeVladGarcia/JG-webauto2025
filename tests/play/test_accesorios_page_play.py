@@ -2,6 +2,9 @@ import re
 from playwright.sync_api import Page, expect
 from pages.demoqa.play.accesorios_page_play import AccesoriosPagePlay
 
+'''
+
+'''
 def test_example(page: Page) -> None:
     accesorios_page = AccesoriosPagePlay(page)
     accesorios_page.navigate()

@@ -1,0 +1,5 @@
+2025-10-27 16:41:38,762 UTC INFO     pages.demoqa.play.base_page_play  Navigating to: https://casaideas.com.bo/
+2025-10-27 16:41:42,637 UTC INFO     pages.demoqa.play.base_page_play  Clicking on ESPACIOS DE LA CASA  element: A
+2025-10-27 16:41:42,787 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Accesorios Personales element: A
+2025-10-27 16:41:45,437 UTC INFO     pages.demoqa.play.base_page_play  Clicking on BUTTON element: BUTTON
+2025-10-27 16:41:45,782 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON

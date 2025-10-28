@@ -1,35 +1,29 @@
 from selenium.webdriver.common.by import By
 from utils.logger import get_logger
 from pages.demoqa.selenium.base_page import BasePage
-# from pages.demoqa.selenium.elements_page import ElementsPage → researvar para La Paz page 
 from config.config import  BASE_URL
 
 logger = get_logger(__name__)
 
 # Crear metodo LandingPage que hereda de BasePage 
-class LandingPage(BasePage):
+class AccesoriosPage(BasePage):
 
-    ## Locators: 
+    # Locators: 
+    city_dropdown = (By.ID, "dropdown-basic")
     lapaz_option = (By.NAME, "59")
     cochabamba_option = (By.NAME, "61")
     santacruz_option = (By.NAME, "60")
     sucre_option = (By.NAME, "181")
     otros_option = (By.NAME, "62")
-    city_dropdown = (By.ID, "dropdown-basic")
-    city_dropdown_result = (By.XPATH, "//span[normalize-space()='La Paz']")
-
-
-    # go to base URL    
-    def __init__(self, driver, environment):
-        super().__init__(driver)        
-        self.url = BASE_URL[environment]
-        self.driver.get(self.url)
-        logger.info("Navigating to the page: " + self.url)
+    
+    # Actions:
+    def click_city_dropdown(self):
+        self.click_element(self.city_dropdown)
 
     def get_city_dropdown(self):
         return self.find_element(self.city_dropdown)
     
-    # lapaz option
+        # lapaz option
     def click_lapaz_option(self):        
         self.click_element(self.lapaz_option)
         # return ElementsPage(self.driver)

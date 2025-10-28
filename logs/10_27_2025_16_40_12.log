@@ -1,0 +1,10 @@
+2025-10-27 16:40:14,640 UTC INFO     pages.demoqa.play.base_page_play  Navigating to: https://casaideas.com.bo/
+2025-10-27 16:40:19,061 UTC INFO     pages.demoqa.play.base_page_play  Clicking on ESPACIOS DE LA CASA  element: A
+2025-10-27 16:40:19,210 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Accesorios Personales element: A
+2025-10-27 16:40:21,622 UTC INFO     pages.demoqa.play.base_page_play  Clicking on BUTTON element: BUTTON
+2025-10-27 16:40:22,044 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-27 16:40:23,117 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-27 16:40:23,472 UTC INFO     pages.demoqa.play.base_page_play  Entering text 'vlad.garciaperez@gmail.com' into INPUT element: INPUT
+2025-10-27 16:40:23,505 UTC INFO     pages.demoqa.play.base_page_play  Entering text 'casaideasPWD1!' into INPUT element: INPUT
+2025-10-27 16:40:23,587 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Iniciar sesión element: BUTTON
+2025-10-27 16:40:23,703 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON

@@ -1,9 +1,0 @@
-2025-10-15 10:47:41,402 UTC INFO     pages.demoqa.play.base_page_play  Navigating to: https://casaideas.com.bo/
-2025-10-15 10:47:45,499 UTC INFO     pages.demoqa.play.base_page_play  Clicking on LA PAZ element: BUTTON
-2025-10-15 10:47:48,457 UTC INFO     pages.demoqa.play.base_page_play  Clicking on ESPACIOS DE LA CASA  element: A
-2025-10-15 10:47:48,628 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Accesorios Personales element: A
-2025-10-15 10:47:52,345 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Agregar al carro element: BUTTON
-2025-10-15 10:47:52,527 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Agregar al carro element: BUTTON
-2025-10-15 10:47:52,978 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Agregar al carro element: BUTTON
-2025-10-15 10:47:53,433 UTC INFO     pages.demoqa.play.base_page_play  Clicking on 2 element: BUTTON
-2025-10-15 10:47:53,885 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
