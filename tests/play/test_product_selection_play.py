@@ -4,7 +4,7 @@ from pages.demoqa.play.landing_plage_play import LandingPagePlay
 import time
 
 class TestProductSelection:
-    def test_product_selection(self, page: Page) -> None:
+    def test_product_selection(self, page: Page, log_test_name) -> None:
         """
         Test that user selects product successfully
         """

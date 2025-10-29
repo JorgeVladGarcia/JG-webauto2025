@@ -1,0 +1,32 @@
+2025-10-28 21:51:29,817 UTC INFO     pages.demoqa.play.base_page_play  Navigating to: https://casaideas.com.bo/
+2025-10-28 21:51:33,167 UTC INFO     pages.demoqa.play.base_page_play  Clicking on ESPACIOS DE LA CASA  element: A
+2025-10-28 21:51:33,288 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Accesorios Personales element: A
+2025-10-28 21:51:35,286 UTC INFO     pages.demoqa.play.base_page_play  Clicking on BUTTON element: BUTTON
+2025-10-28 21:51:35,617 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-28 21:51:36,645 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-28 21:51:36,766 UTC INFO     pages.demoqa.play.base_page_play  Entering text 'wrong_user@example.com' into INPUT element: INPUT
+2025-10-28 21:51:36,793 UTC INFO     pages.demoqa.play.base_page_play  Entering text 'WrongPass' into INPUT element: INPUT
+2025-10-28 21:51:36,834 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Iniciar sesión element: BUTTON
+2025-10-28 21:51:36,920 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-28 21:52:07,360 UTC INFO     pages.demoqa.play.base_page_play  Navigating to: https://casaideas.com.bo/
+2025-10-28 21:52:10,820 UTC INFO     pages.demoqa.play.base_page_play  Clicking on ESPACIOS DE LA CASA  element: A
+2025-10-28 21:52:10,951 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Accesorios Personales element: A
+2025-10-28 21:52:13,045 UTC INFO     pages.demoqa.play.base_page_play  Clicking on BUTTON element: BUTTON
+2025-10-28 21:52:13,360 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-28 21:52:14,355 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-28 21:52:14,676 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Iniciar sesión element: BUTTON
+2025-10-28 21:52:14,831 UTC INFO     pages.demoqa.play.base_page_play  Navigating to: https://casaideas.com.bo/
+2025-10-28 21:52:17,765 UTC INFO     pages.demoqa.play.base_page_play  Navigating to: https://casaideas.com.bo/
+2025-10-28 21:52:20,583 UTC INFO     pages.demoqa.play.base_page_play  Navigating to: https://casaideas.com.bo/
+2025-10-28 21:52:23,968 UTC INFO     pages.demoqa.play.base_page_play  Clicking on ESPACIOS DE LA CASA  element: A
+2025-10-28 21:52:24,109 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Accesorios Personales element: A
+2025-10-28 21:52:26,751 UTC INFO     pages.demoqa.play.base_page_play  Navigating to: https://casaideas.com.bo/
+2025-10-28 21:52:30,291 UTC INFO     pages.demoqa.play.base_page_play  Clicking on ESPACIOS DE LA CASA  element: A
+2025-10-28 21:52:30,458 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Accesorios Personales element: A
+2025-10-28 21:52:32,885 UTC INFO     pages.demoqa.play.base_page_play  Clicking on BUTTON element: BUTTON
+2025-10-28 21:52:33,262 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-28 21:52:34,291 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON
+2025-10-28 21:52:34,780 UTC INFO     pages.demoqa.play.base_page_play  Entering text 'vlad.garciaperez@gmail.com' into INPUT element: INPUT
+2025-10-28 21:52:34,825 UTC INFO     pages.demoqa.play.base_page_play  Entering text 'casaideasPWD1!' into INPUT element: INPUT
+2025-10-28 21:52:34,878 UTC INFO     pages.demoqa.play.base_page_play  Clicking on Iniciar sesión element: BUTTON
+2025-10-28 21:52:34,966 UTC INFO     pages.demoqa.play.base_page_play  Clicking on COMPLETAR LA COMPRA element: BUTTON

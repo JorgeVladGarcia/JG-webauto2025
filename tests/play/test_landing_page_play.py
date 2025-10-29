@@ -5,7 +5,7 @@ from pages.demoqa.play.landing_plage_play import LandingPagePlay
 
 class TestLandingPagePlay:
 
-    def test_landing_page(self, page: Page) -> None:
+    def test_landing_page(self, page: Page, log_test_name) -> None:
         """
         Test that the landing page displays all options
         """

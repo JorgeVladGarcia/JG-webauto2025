@@ -10,9 +10,8 @@ def load_users(file_name="usernames.json"):
         return json.load(file)
 
 class TestCheckOut:
-    # @pytest.mark.parametrize("read_data", ["usernames"], indirect=True)
     @pytest.mark.parametrize("user_data", load_users())
-    def test_user_login(self, page: Page, user_data) -> None:
+    def test_user_login(self, page: Page, user_data, log_test_name) -> None:
         """
         Test that user can checkout cart after sign in with existing credentials 
         """

@@ -5,7 +5,7 @@ from pages.demoqa.play.landing_plage_play import LandingPagePlay
 
 class TestCitySelection:
 
-    def test_city_selection(self, page: Page) -> None:
+    def test_city_selection(self, page: Page, log_test_name) -> None:
         """
         Test that user selects correct city from landpage options
         """

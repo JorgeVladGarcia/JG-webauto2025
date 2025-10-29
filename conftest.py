@@ -38,6 +38,14 @@ def driver():
     
     driver.quit()
 
+@pytest.fixture
+def log_test_name(request):
+    logger.info("Test name: '%s' started", request.node.name)
+    def fin():
+        logger.info("Test name: '%s' finished", request.node.name)    
+    request.addfinalizer(fin)
+
+
 @pytest.fixture()
 def env(request):
     return request.config.getoption("--env")
