@@ -4,7 +4,7 @@
         "password": "WrongPass"
     },
     {
-        "email": "vlad.garciaperez@gmail.com",
-        "password": "casaideasPWD1!"
+        "email": "correct_user@example.com",
+        "password": "CorrectPass"
     }
 ]

@@ -1,7 +1,7 @@
 import pytest
 from playwright.sync_api import Page, expect
 from pages.demoqa.play.landing_plage_play import LandingPagePlay
-# from soft_assert import check, verify
+from soft_assert import check, verify
 import json
 
 # Utility to load users from JSON file
